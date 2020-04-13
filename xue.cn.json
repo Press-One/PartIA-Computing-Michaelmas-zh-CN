@@ -1,7 +1,10 @@
 {
-  "version": "0.1",
+  "version": "0.5",
   "name": "了解计算-Python零基础",
   "publish_at": "2019-08-27T00:00:00",
+  "license": "本书中文版由译者 Goldengrape 授权。 原文作者： Garth N. Wells (gnw20@cam.ac.uk). https://notebooks.azure.com/garth-wells/projects/CUED-IA-Computing-Michaelmas\n本书ipynb文件及原内容的授权：CC 4.0  知识共享 署名-相同方式共享. https://creativecommons.org/licenses/by-sa/3.0/deed.zh\n书中所有代码的授权为 MIT license",
+  "category": "计算科学",
+  "programming_language": "Python",
   "description": "这是剑桥大学工程系计算科学的入门课程，世界名校帮你学会工作中绝对可以用上的Python技能。学习该课程并不需要任何编程经验。但它确实需要具有一定的数学知识。共包含12个适合自学的章节，每个章节配备练习题。\n翻译：金葡萄。\nAll material is copyright of Garth N. Wells (gnw20@cam.ac.uk).\nAll text is made available under the CC 4.0.\nAll computer code is released under the MIT license.",
   "cover": "https://static.press.one/baseone/book/computing.jpg",
   "authors": [
@@ -13,57 +16,20 @@
     }
   ],
   "chapters": [
-    {
-      "path": "00 Part IA Michaelmas Term computing.ipynb",
-      "title": "0 前言"
-    },
-    {
-      "path": "01 Variables, assignment and operator precedence.ipynb",
-      "title": "0 1 变量，赋值和运算符优先级"
-    },
-    {
-      "path": "02 Control statements.ipynb",
-      "title": "0 2 条件控制"
-    },
-    {
-      "path": "03 Types, type conversions and floating point arithmetic.ipynb",
-      "title": "0 3 数据类型，类型转换和浮点运算"
-    },
-    {
-      "path": "04 Functions.ipynb",
-      "title": "0 4 函数"
-    },
-    {
-      "path": "05 Library functions.ipynb",
-      "title": "0 5 库函数"
-    },
-    {
-      "path": "06 Data structures.ipynb",
-      "title": "0 6 数据结构"
-    },
-    {
-      "path": "07 Numerical computation.ipynb",
-      "title": "0 7 数值运算"
-    },
-    {
-      "path": "08 Plotting.ipynb",
-      "title": "0 8 绘图"
-    },
-    {
-      "path": "09 Error handling and testing.ipynb",
-      "title": "0 9 错误处理和测试"
-    },
-    {
-      "path": "10 Algorithms.ipynb",
-      "title": "0 10 算法"
-    },
-    {
-      "path": "11 Complexity.ipynb",
-      "title": "0 11 复杂度"
-    },
-    {
-      "path": "12 Object-oriented design.ipynb",
-      "title": "0 12 面向对象的设计"
+    {"path": "00 Part IA Michaelmas Term computing.ipynb","title": "0 前言"},
+    {"path": "01 Variables, assignment and operator precedence.ipynb","title": "0 1 变量，赋值和运算符优先级"},
+    {"path": "02 Control statements.ipynb","title": "0 2 条件控制"},
+    {"path": "03 Types, type conversions and floating point arithmetic.ipynb","title": "0 3 数据类型，类型转换和浮点运算"},
+    {"path": "04 Functions.ipynb","title": "0 4 函数"},
+    {"path": "05 Library functions.ipynb","title": "0 5 库函数"},
+    {"path": "06 Data structures.ipynb","title": "0 6 数据结构"},
+    {"path": "07 Numerical computation.ipynb","title": "0 7 数值运算"},
+    {"path": "08 Plotting.ipynb","title": "0 8 绘图"},
+    {"path": "09 Error handling and testing.ipynb","title": "0 9 错误处理和测试"},
+    {"path": "10 Algorithms.ipynb","title": "0 10 算法"},
+    {"path": "11 Complexity.ipynb","title": "0 11 复杂度"},
+    {"path": "12 Object-oriented design.ipynb","title": "0 12 面向对象的设计"},
+    {"path": "xuecn_license.ipynb","title": "0 版权声明"
     }
   ]
 }
