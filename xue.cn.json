@@ -12,66 +12,157 @@
         {
             "is_free": true,
             "path": "00 Part IA Michaelmas Term computing.ipynb",
+            "tags": [
+                "Jupyter"
+            ],
             "title": "0 前言"
         },
         {
             "is_free": true,
             "path": "01 Variables, assignment and operator precedence.ipynb",
+            "tags": [
+                "变量",
+                "数学运算",
+                "运算符",
+                "变量命名",
+                "变量赋值"
+            ],
             "title": "0 1 变量，赋值和运算符优先级"
         },
         {
             "is_free": true,
             "path": "02 Control statements.ipynb",
+            "tags": [
+                "布尔运算",
+                "比较运算符",
+                "if语句",
+                "for循环",
+                "while循环",
+                "无限循环"
+            ],
             "title": "0 2 条件控制"
         },
         {
             "is_free": true,
             "path": "03 Types, type conversions and floating point arithmetic.ipynb",
+            "tags": [
+                "内置函数type()",
+                "布尔运算",
+                "字符串",
+                "整数",
+                "浮点数",
+                "复数",
+                "数据类型转换",
+                "二进制",
+                "字节"
+            ],
             "title": "0 3 数据类型，类型转换和浮点运算"
         },
         {
             "is_free": true,
             "path": "04 Functions.ipynb",
+            "tags": [
+                "函数",
+                "递归函数",
+                "函数参数",
+                "斐波纳契数列"
+            ],
             "title": "0 4 函数"
         },
         {
             "is_free": true,
             "path": "05 Library functions.ipynb",
+            "tags": [
+                "import",
+                "pip",
+                "安装库",
+                "numpy库，Jupyter",
+                "math库",
+                "字符串",
+                "random库",
+                "内置函数sorted()",
+                "并行处理"
+            ],
             "title": "0 5 库函数"
         },
         {
             "is_free": true,
             "path": "06 Data structures.ipynb",
+            "tags": [
+                "数据结构",
+                "列表",
+                "元组",
+                "字典",
+                "数据容器的迭代"
+            ],
             "title": "0 6 数据结构"
         },
         {
             "is_free": true,
             "path": "07 Numerical computation.ipynb",
+            "tags": [
+                "numpy库"
+            ],
             "title": "0 7 数值运算"
         },
         {
             "is_free": true,
             "path": "08 Plotting.ipynb",
+            "tags": [
+                "matplotlib库"
+            ],
             "title": "0 8 绘图"
         },
         {
             "is_free": true,
             "path": "09 Error handling and testing.ipynb",
+            "tags": [
+                "语法错误",
+                "异常",
+                "异常处理",
+                "捕获异常",
+                "测试",
+                "参数有效性检查",
+                "断言",
+                "pytest库"
+            ],
             "title": "0 9 错误处理和测试"
         },
         {
             "is_free": true,
             "path": "10 Algorithms.ipynb",
+            "tags": [
+                "算法",
+                "numpy库",
+                "伪代码",
+                "线性搜索算法",
+                "搜索算法",
+                "二分搜索算法",
+                "冒泡排序算法",
+                "快速排序算法"
+            ],
             "title": "0 10 算法"
         },
         {
             "is_free": true,
             "path": "11 Complexity.ipynb",
+            "tags": [
+                "算法",
+                "算法复杂度",
+                "算法性能",
+                "排序算法",
+                "快速排序算法",
+                "matplotlib库"
+            ],
             "title": "0 11 复杂度"
         },
         {
             "is_free": true,
             "path": "12 Object-oriented design.ipynb",
+            "tags": [
+                "numpy库，类，面向对象，运算符",
+                "magic方法"
+            ],
             "title": "0 12 面向对象的设计"
         },
         {
