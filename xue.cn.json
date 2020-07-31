@@ -11,7 +11,7 @@
     "chapters": [
         {
             "is_free": true,
-            "path": "00 Part IA Michaelmas Term computing.ipynb",
+            "path": "zh-CN/00 Part IA Michaelmas Term computing.ipynb",
             "tags": [
                 "Jupyter"
             ],
@@ -19,7 +19,7 @@
         },
         {
             "is_free": true,
-            "path": "01 Variables, assignment and operator precedence.ipynb",
+            "path": "zh-CN/01 Variables, assignment and operator precedence.ipynb",
             "tags": [
                 "变量",
                 "数学运算",
@@ -31,7 +31,7 @@
         },
         {
             "is_free": true,
-            "path": "02 Control statements.ipynb",
+            "path": "zh-CN/02 Control statements.ipynb",
             "tags": [
                 "布尔运算",
                 "比较运算符",
@@ -44,7 +44,7 @@
         },
         {
             "is_free": true,
-            "path": "03 Types, type conversions and floating point arithmetic.ipynb",
+            "path": "zh-CN/03 Types, type conversions and floating point arithmetic.ipynb",
             "tags": [
                 "内置函数type()",
                 "布尔运算",
@@ -60,7 +60,7 @@
         },
         {
             "is_free": true,
-            "path": "04 Functions.ipynb",
+            "path": "zh-CN/04 Functions.ipynb",
             "tags": [
                 "函数",
                 "递归函数",
@@ -71,7 +71,7 @@
         },
         {
             "is_free": true,
-            "path": "05 Library functions.ipynb",
+            "path": "zh-CN/05 Library functions.ipynb",
             "tags": [
                 "import",
                 "pip",
@@ -87,7 +87,7 @@
         },
         {
             "is_free": true,
-            "path": "06 Data structures.ipynb",
+            "path": "zh-CN/06 Data structures.ipynb",
             "tags": [
                 "数据结构",
                 "列表",
@@ -99,7 +99,7 @@
         },
         {
             "is_free": true,
-            "path": "07 Numerical computation.ipynb",
+            "path": "zh-CN/07 Numerical computation.ipynb",
             "tags": [
                 "numpy库"
             ],
@@ -107,7 +107,7 @@
         },
         {
             "is_free": true,
-            "path": "08 Plotting.ipynb",
+            "path": "zh-CN/08 Plotting.ipynb",
             "tags": [
                 "matplotlib库"
             ],
@@ -115,7 +115,7 @@
         },
         {
             "is_free": true,
-            "path": "09 Error handling and testing.ipynb",
+            "path": "zh-CN/09 Error handling and testing.ipynb",
             "tags": [
                 "语法错误",
                 "异常",
@@ -130,7 +130,7 @@
         },
         {
             "is_free": true,
-            "path": "10 Algorithms.ipynb",
+            "path": "zh-CN/10 Algorithms.ipynb",
             "tags": [
                 "算法",
                 "numpy库",
@@ -145,7 +145,7 @@
         },
         {
             "is_free": true,
-            "path": "11 Complexity.ipynb",
+            "path": "zh-CN/11 Complexity.ipynb",
             "tags": [
                 "算法",
                 "算法复杂度",
@@ -158,7 +158,7 @@
         },
         {
             "is_free": true,
-            "path": "12 Object-oriented design.ipynb",
+            "path": "zh-CN/12 Object-oriented design.ipynb",
             "tags": [
                 "numpy库，类，面向对象，运算符",
                 "magic方法"
@@ -167,7 +167,7 @@
         },
         {
             "is_free": true,
-            "path": "xuecn_license.ipynb",
+            "path": "zh-CN/xuecn_license.ipynb",
             "title": "0 版权声明"
         }
     ],
