@@ -11,7 +11,7 @@
     "chapters": [
         {
             "is_free": true,
-            "path": "zh-CN/00 Part IA Michaelmas Term computing.ipynb",
+            "path": "zh-CN/00_Part_IA_Michaelmas_Term_computing.ipynb",
             "tags": [
                 "Jupyter"
             ],
@@ -19,7 +19,7 @@
         },
         {
             "is_free": true,
-            "path": "zh-CN/01 Variables, assignment and operator precedence.ipynb",
+            "path": "zh-CN/01_Variables,_assignment_and_operator_precedence.ipynb",
             "tags": [
                 "变量",
                 "数学运算",
@@ -27,11 +27,11 @@
                 "变量命名",
                 "变量赋值"
             ],
-            "title": "1.1 变量，赋值和运算符优先级"
+            "title": "1 变量，赋值和运算符优先级"
         },
         {
             "is_free": true,
-            "path": "zh-CN/02 Control statements.ipynb",
+            "path": "zh-CN/02_Control_statements.ipynb",
             "tags": [
                 "布尔运算",
                 "比较运算符",
@@ -40,11 +40,11 @@
                 "while循环",
                 "无限循环"
             ],
-            "title": "1.2 条件控制"
+            "title": "2 条件控制"
         },
         {
             "is_free": true,
-            "path": "zh-CN/03 Types, type conversions and floating point arithmetic.ipynb",
+            "path": "zh-CN/03_Types,_type_conversions_and_floating_point_arithmetic.ipynb",
             "tags": [
                 "内置函数type()",
                 "布尔运算",
@@ -56,22 +56,22 @@
                 "二进制",
                 "字节"
             ],
-            "title": "1.3 数据类型，类型转换和浮点运算"
+            "title": "3 数据类型，类型转换和浮点运算"
         },
         {
             "is_free": true,
-            "path": "zh-CN/04 Functions.ipynb",
+            "path": "zh-CN/04_Functions.ipynb",
             "tags": [
                 "函数",
                 "递归函数",
                 "函数参数",
                 "斐波纳契数列"
             ],
-            "title": "1.4 函数"
+            "title": "4 函数"
         },
         {
             "is_free": true,
-            "path": "zh-CN/05 Library functions.ipynb",
+            "path": "zh-CN/05_Library_functions.ipynb",
             "tags": [
                 "import",
                 "pip",
@@ -83,11 +83,11 @@
                 "内置函数sorted()",
                 "并行处理"
             ],
-            "title": "1.5 库函数"
+            "title": "5 库函数"
         },
         {
             "is_free": true,
-            "path": "zh-CN/06 Data structures.ipynb",
+            "path": "zh-CN/06_Data_structures.ipynb",
             "tags": [
                 "数据结构",
                 "列表",
@@ -95,27 +95,27 @@
                 "字典",
                 "数据容器的迭代"
             ],
-            "title": "1.6 数据结构"
+            "title": "6 数据结构"
         },
         {
             "is_free": true,
-            "path": "zh-CN/07 Numerical computation.ipynb",
+            "path": "zh-CN/07_Numerical_computation.ipynb",
             "tags": [
                 "numpy库"
             ],
-            "title": "1.7 数值运算"
+            "title": "7 数值运算"
         },
         {
             "is_free": true,
-            "path": "zh-CN/08 Plotting.ipynb",
+            "path": "zh-CN/08_Plotting.ipynb",
             "tags": [
                 "matplotlib库"
             ],
-            "title": "1.8 绘图"
+            "title": "8 绘图"
         },
         {
             "is_free": true,
-            "path": "zh-CN/09 Error handling and testing.ipynb",
+            "path": "zh-CN/09_Error_handling_and_testing.ipynb",
             "tags": [
                 "语法错误",
                 "异常",
@@ -126,11 +126,11 @@
                 "断言",
                 "pytest库"
             ],
-            "title": "1.9 错误处理和测试"
+            "title": "9 错误处理和测试"
         },
         {
             "is_free": true,
-            "path": "zh-CN/10 Algorithms.ipynb",
+            "path": "zh-CN/10_Algorithms.ipynb",
             "tags": [
                 "算法",
                 "numpy库",
@@ -141,11 +141,11 @@
                 "冒泡排序算法",
                 "快速排序算法"
             ],
-            "title": "1.10 算法"
+            "title": "10 算法"
         },
         {
             "is_free": true,
-            "path": "zh-CN/11 Complexity.ipynb",
+            "path": "zh-CN/11_Complexity.ipynb",
             "tags": [
                 "算法",
                 "算法复杂度",
@@ -154,33 +154,21 @@
                 "快速排序算法",
                 "matplotlib库"
             ],
-            "title": "1.11 复杂度"
+            "title": "11 复杂度"
         },
         {
             "is_free": true,
-            "path": "zh-CN/12 Object-oriented design.ipynb",
+            "path": "zh-CN/12_Object-oriented_design.ipynb",
             "tags": [
                 "numpy库，类，面向对象，运算符",
                 "magic方法"
             ],
-            "title": "1.12 面向对象的设计"
+            "title": "12 面向对象的设计"
         },
-        {"is_free": true,"path": "zh-CN/Exercises/01 Exercises.ipynb","title": "2.1 Exercises 01"},
-        {"is_free": true,"path": "zh-CN/Exercises/02 Exercises.ipynb","title": "2.2 Exercises 02"},
-        {"is_free": true,"path": "zh-CN/Exercises/03 Exercises.ipynb","title": "2.3 Exercises 03"},
-        {"is_free": true,"path": "zh-CN/Exercises/04 Exercises.ipynb","title": "2.4 Exercises 04"},
-        {"is_free": true,"path": "zh-CN/Exercises/05 Exercises.ipynb","title": "2.5 Exercises 05"},
-        {"is_free": true,"path": "zh-CN/Exercises/06 Exercises.ipynb","title": "2.6 Exercises 06"},
-        {"is_free": true,"path": "zh-CN/Exercises/07 Exercises.ipynb","title": "2.7 Exercises 07"},
-        {"is_free": true,"path": "zh-CN/Exercises/08 Exercises.ipynb","title": "2.8 Exercises 08"},
-        {"is_free": true,"path": "zh-CN/Exercises/09 Exercises.ipynb","title": "2.9 Exercises 09"},
-        {"is_free": true,"path": "zh-CN/Exercises/10 Exercises.ipynb","title": "2.10 Exercises 10"},
-        {"is_free": true,"path": "zh-CN/Exercises/11 Exercises.ipynb","title": "2.11 Exercises 11"},
-        {"is_free": true,"path": "zh-CN/Exercises/12 Exercises.ipynb","title": "2.12 Exercises 12"},
         {
             "is_free": true,
             "path": "zh-CN/xuecn_license.ipynb",
-            "title": "0 版权声明"
+            "title": "Z 版权声明"
         }
     ],
     "cover": "https://img-cdn.xue.cn/cover_computing.jpg",
