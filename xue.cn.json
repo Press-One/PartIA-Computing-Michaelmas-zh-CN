@@ -1,182 +1,280 @@
 {
-    "authors": [
-        {
-            "avatar": "https://static.press.one/baseone/book/computing_avatar.png",
-            "bio": "暂无",
-            "name": "goldengrape",
-            "role": "translate"
-        }
-    ],
-    "category": "编程入门",
-    "chapters": [
-        {
-            "is_free": true,
-            "path": "zh-CN/00_Part_IA_Michaelmas_Term_computing.ipynb",
-            "tags": [
-                "Jupyter"
-            ],
-            "title": "0 前言"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/01_Variables,_assignment_and_operator_precedence.ipynb",
-            "tags": [
-                "变量",
-                "数学运算",
-                "运算符",
-                "变量命名",
-                "变量赋值"
-            ],
-            "title": "0 1 变量，赋值和运算符优先级"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/02_Control_statements.ipynb",
-            "tags": [
-                "布尔运算",
-                "比较运算符",
-                "if语句",
-                "for循环",
-                "while循环",
-                "无限循环"
-            ],
-            "title": "0 2 条件控制"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/03_Types,_type_conversions_and_floating_point_arithmetic.ipynb",
-            "tags": [
-                "内置函数type()",
-                "布尔运算",
-                "字符串",
-                "整数",
-                "浮点数",
-                "复数",
-                "数据类型转换",
-                "二进制",
-                "字节"
-            ],
-            "title": "0 3 数据类型，类型转换和浮点运算"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/04_Functions.ipynb",
-            "tags": [
-                "函数",
-                "递归函数",
-                "函数参数",
-                "斐波纳契数列"
-            ],
-            "title": "0 4 函数"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/05_Library_functions.ipynb",
-            "tags": [
-                "import",
-                "pip",
-                "安装库",
-                "numpy库，Jupyter",
-                "math库",
-                "字符串",
-                "random库",
-                "内置函数sorted()",
-                "并行处理"
-            ],
-            "title": "0 5 库函数"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/06_Data_structures.ipynb",
-            "tags": [
-                "数据结构",
-                "列表",
-                "元组",
-                "字典",
-                "数据容器的迭代"
-            ],
-            "title": "0 6 数据结构"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/07_Numerical_computation.ipynb",
-            "tags": [
-                "numpy库"
-            ],
-            "title": "0 7 数值运算"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/08_Plotting.ipynb",
-            "tags": [
-                "matplotlib库"
-            ],
-            "title": "0 8 绘图"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/09_Error_handling_and_testing.ipynb",
-            "tags": [
-                "语法错误",
-                "异常",
-                "异常处理",
-                "捕获异常",
-                "测试",
-                "参数有效性检查",
-                "断言",
-                "pytest库"
-            ],
-            "title": "0 9 错误处理和测试"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/10_Algorithms.ipynb",
-            "tags": [
-                "算法",
-                "numpy库",
-                "伪代码",
-                "线性搜索算法",
-                "搜索算法",
-                "二分搜索算法",
-                "冒泡排序算法",
-                "快速排序算法"
-            ],
-            "title": "0 10 算法"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/11_Complexity.ipynb",
-            "tags": [
-                "算法",
-                "算法复杂度",
-                "算法性能",
-                "排序算法",
-                "快速排序算法",
-                "matplotlib库"
-            ],
-            "title": "0 11 复杂度"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/12_Object-oriented_design.ipynb",
-            "tags": [
-                "numpy库，类，面向对象，运算符",
-                "magic方法"
-            ],
-            "title": "0 12 面向对象的设计"
-        },
-        {
-            "is_free": true,
-            "path": "zh-CN/xuecn_license.ipynb",
-            "title": "Z 版权声明"
-        }
-    ],
-    "cover": "https://img-cdn.xue.cn/cover_computing.jpg",
-    "description": "这是剑桥大学工程系计算科学的入门课程，世界名校帮你学会工作中绝对可以用上的 Python 技能。学习该课程并不需要任何编程经验。但它确实需要具有一定的数学知识。共包含 12 个适合自学的章节，每个章节配备练习题。\n翻译：金葡萄。\nAll material is copyright of Garth N. Wells (gnw20@cam.ac.uk).\nAll text is made available under the CC 4.0.\nAll computer code is released under the MIT license.",
-    "license": "本书中文版由译者 Goldengrape 授权。\n原文作者： Garth N. Wells (gnw20@cam.ac.uk). https://notebooks.azure.com/garth-wells/projects/CUED-IA-Computing-Michaelmas\n本书ipynb文件及原内容的授权：CC 4.0  知识共享 署名-相同方式共享. https://creativecommons.org/licenses/by-sa/3.0/deed.zh\n书中所有代码的授权为 MIT license",
-    "name": "了解计算-Python 零基础",
-    "programming_language": "Python",
-    "publish_at": "2019-08-27T00:00:00",
-    "toc_level":2,
-    "version": "0.5"
+ "authors": [
+  {
+   "avatar": "https://static.press.one/baseone/book/computing_avatar.png",
+   "bio": "暂无",
+   "name": "goldengrape",
+   "role": "translate"
+  }
+ ],
+ "category": "编程入门",
+ "chapters": [
+  {
+   "is_free": true,
+   "path": "zh-CN/00_Part_IA_Michaelmas_Term_computing.ipynb",
+   "tags": [
+    "Jupyter"
+   ],
+   "title": "0 前言"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/01_Variables,_assignment_and_operator_precedence.ipynb",
+   "chapter_name": "正文",
+   "tags": [
+    "变量",
+    "数学运算",
+    "运算符",
+    "变量命名",
+    "变量赋值"
+   ],
+   "title": "1.1 1 变量，赋值和运算符优先级",
+   "display": "1 变量，赋值和运算符优先级"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/02_Control_statements.ipynb",
+   "tags": [
+    "布尔运算",
+    "比较运算符",
+    "if语句",
+    "for循环",
+    "while循环",
+    "无限循环"
+   ],
+   "title": "1.2 2 条件控制",
+   "display": "2 条件控制"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/03_Types,_type_conversions_and_floating_point_arithmetic.ipynb",
+   "tags": [
+    "内置函数type()",
+    "布尔运算",
+    "字符串",
+    "整数",
+    "浮点数",
+    "复数",
+    "数据类型转换",
+    "二进制",
+    "字节"
+   ],
+   "title": "1.3 3 数据类型，类型转换和浮点运算",
+   "display": "3 数据类型，类型转换和浮点运算"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/04_Functions.ipynb",
+   "tags": [
+    "函数",
+    "递归函数",
+    "函数参数",
+    "斐波纳契数列"
+   ],
+   "title": "1.4 4 函数",
+   "display": "4 函数"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/05_Library_functions.ipynb",
+   "tags": [
+    "import",
+    "pip",
+    "安装库",
+    "numpy库，Jupyter",
+    "math库",
+    "字符串",
+    "random库",
+    "内置函数sorted()",
+    "并行处理"
+   ],
+   "title": "1.5 5 库函数",
+   "display": "5 库函数"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/06_Data_structures.ipynb",
+   "tags": [
+    "数据结构",
+    "列表",
+    "元组",
+    "字典",
+    "数据容器的迭代"
+   ],
+   "title": "1.6 6 数据结构",
+   "display": "6 数据结构"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/07_Numerical_computation.ipynb",
+   "tags": [
+    "numpy库"
+   ],
+   "title": "1.7 7 数值运算",
+   "display": "7 数值运算"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/08_Plotting.ipynb",
+   "tags": [
+    "matplotlib库"
+   ],
+   "title": "1.8 8 绘图",
+   "display": "8 绘图"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/09_Error_handling_and_testing.ipynb",
+   "tags": [
+    "语法错误",
+    "异常",
+    "异常处理",
+    "捕获异常",
+    "测试",
+    "参数有效性检查",
+    "断言",
+    "pytest库"
+   ],
+   "title": "1.9 9 错误处理和测试",
+   "display": "9 错误处理和测试"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/10_Algorithms.ipynb",
+   "tags": [
+    "算法",
+    "numpy库",
+    "伪代码",
+    "线性搜索算法",
+    "搜索算法",
+    "二分搜索算法",
+    "冒泡排序算法",
+    "快速排序算法"
+   ],
+   "title": "1.1 10 算法",
+   "display": "10 算法"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/11_Complexity.ipynb",
+   "tags": [
+    "算法",
+    "算法复杂度",
+    "算法性能",
+    "排序算法",
+    "快速排序算法",
+    "matplotlib库"
+   ],
+   "title": "1.1 11 复杂度",
+   "display": "11 复杂度"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/12_Object-oriented_design.ipynb",
+   "tags": [
+    "numpy库，类，面向对象，运算符",
+    "magic方法"
+   ],
+   "title": "1.1 12 面向对象的设计",
+   "display": "12 面向对象的设计"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/01_Exercises.ipynb",
+   "tags": [],
+   "chapter_name": "练习题",
+   "title": "2.1 Exercises 01",
+   "display": "Exercises 01"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/02_Exercises.ipynb",
+   "tags": [],
+   "title": "2.2 Exercises 02",
+   "display": "Exercises 02"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/03_Exercises.ipynb",
+   "tags": [],
+   "title": "2.3 Exercises 03",
+   "display": "Exercises 03"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/04_Exercises.ipynb",
+   "tags": [],
+   "title": "2.4 Exercises 04",
+   "display": "Exercises 04"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/05_Exercises.ipynb",
+   "tags": [],
+   "title": "2.5 Exercises 05",
+   "display": "Exercises 05"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/06_Exercises.ipynb",
+   "tags": [],
+   "title": "2.6 Exercises 06",
+   "display": "Exercises 06"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/07_Exercises.ipynb",
+   "tags": [],
+   "title": "2.7 Exercises 07",
+   "display": "Exercises 07"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/08_Exercises.ipynb",
+   "tags": [],
+   "title": "2.8 Exercises 08",
+   "display": "Exercises 08"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/09_Exercises.ipynb",
+   "tags": [],
+   "title": "2.9 Exercises 09",
+   "display": "Exercises 09"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/10_Exercises.ipynb",
+   "tags": [],
+   "title": "2.10 Exercises 10",
+   "display": "Exercises 10"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/11_Exercises.ipynb",
+   "tags": [],
+   "title": "2.11 Exercises 11",
+   "display": "Exercises 11"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/Exercises/12_Exercises.ipynb",
+   "tags": [],
+   "title": "2.12 Exercises 12",
+   "display": "Exercises 12"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/xuecn_license.ipynb",
+   "title": "Z 版权声明"
+  }
+ ],
+ "cover": "https://img-cdn.xue.cn/cover_computing.jpg",
+ "description": "这是剑桥大学工程系计算科学的入门课程，世界名校帮你学会工作中绝对可以用上的 Python 技能。学习该课程并不需要任何编程经验。但它确实需要具有一定的数学知识。共包含 12 个适合自学的章节，每个章节配备练习题。\n翻译：金葡萄。\nAll material is copyright of Garth N. Wells (gnw20@cam.ac.uk).\nAll text is made available under the CC 4.0.\nAll computer code is released under the MIT license.",
+ "license": "本书中文版由译者 Goldengrape 授权。\n原文作者： Garth N. Wells (gnw20@cam.ac.uk). https://notebooks.azure.com/garth-wells/projects/CUED-IA-Computing-Michaelmas\n本书ipynb文件及原内容的授权：CC 4.0  知识共享 署名-相同方式共享. https://creativecommons.org/licenses/by-sa/3.0/deed.zh\n书中所有代码的授权为 MIT license",
+ "name": "了解计算-Python 零基础",
+ "programming_language": "Python",
+ "publish_at": "2019-08-27T00:00:00",
+ "toc_level": 2,
+ "version": "0.5"
 }
