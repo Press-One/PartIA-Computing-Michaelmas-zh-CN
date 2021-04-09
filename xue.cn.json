@@ -1,13 +1,4 @@
 {
- "authors": [
-  {
-   "avatar": "https://static.press.one/baseone/book/computing_avatar.png",
-   "bio": "暂无",
-   "name": "goldengrape",
-   "role": "translate"
-  }
- ],
- "category": "编程入门，算法，数据科学，零基础，Python，英文原版",
  "chapters": [
   {
    "is_free": true,
@@ -274,7 +265,16 @@
  "license": "本书中文版由译者 Goldengrape 授权。\n原文作者： Garth N. Wells (gnw20@cam.ac.uk). https://notebooks.azure.com/garth-wells/projects/CUED-IA-Computing-Michaelmas\n本书ipynb文件及原内容的授权：CC 4.0  知识共享 署名-相同方式共享. https://creativecommons.org/licenses/by-sa/3.0/deed.zh\n书中所有代码的授权为 MIT license",
  "name": "了解计算-Python 零基础",
  "programming_language": "Python",
- "publish_at": "2019-08-27T00:00:00",
+ "category": "数据科学，Python，零基础",
+ "authors": [
+  {
+   "avatar": "https://static.press.one/baseone/book/computing_avatar.png",
+   "bio": "暂无",
+   "name": "goldengrape",
+   "role": "translate"
+  }
+ ],
+ "publish_at": "2019-08-27T00:00:02",
  "toc_level": 2,
  "version": "0.5"
 }
