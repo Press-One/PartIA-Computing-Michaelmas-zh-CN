@@ -161,16 +161,6 @@
   },
   {
    "is_free": true,
-   "path": "zh-CN/12_Object-oriented_design.ipynb",
-   "tags": [
-    "numpy库，类，面向对象，运算符",
-    "magic方法"
-   ],
-   "title": "1.1 12 面向对象的设计",
-   "display": "12 面向对象的设计"
-  },
-  {
-   "is_free": true,
    "path": "zh-CN/Exercises/01_Exercises.ipynb",
    "tags": [],
    "chapter_name": "练习题",
