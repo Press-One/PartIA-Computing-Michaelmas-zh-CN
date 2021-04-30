@@ -142,7 +142,7 @@
     "冒泡排序算法",
     "快速排序算法"
    ],
-   "title": "1.1 10 算法",
+   "title": "1.10 10 算法",
    "display": "10 算法"
   },
   {
@@ -156,8 +156,15 @@
     "快速排序算法",
     "matplotlib库"
    ],
-   "title": "1.1 11 复杂度",
+   "title": "1.11 11 复杂度",
    "display": "11 复杂度"
+  },
+  {
+   "is_free": true,
+   "path": "zh-CN/12_Object-oriented_design.ipynb",
+   "tags": [],
+   "title": "1.12 12 面向对象",
+   "display": "12 面向对象"
   },
   {
    "is_free": true,
